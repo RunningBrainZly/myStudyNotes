@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CLASSAd:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CLASSAd_jar</output-path>
+    <root id="archive" name="CLASSAd.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+      <element id="library" level="project" name="CLASSAd" />
+    </root>
+  </artifact>
+</component>

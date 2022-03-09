@@ -1,0 +1,11 @@
+public 中的文件最终会原封不动的复制到dist文件中
+.gitignore 中是配置打包到git上不想上传上去的文件和一些配置
+babel 对babel做一些配置
+package-lock 是最终使用的版本（因为^是模糊的版本）
+package 是使用的包的版本和一些命令
+
+
+cli3修改配置文件的三种方式：
+1.vue ui视图见面修改
+2.在 node_moudel下@vue下的cli-service下lib下service中查看并更改
+3.创建一个vue.config.js文件更改配置（这个文件命只能为vue.config.js）

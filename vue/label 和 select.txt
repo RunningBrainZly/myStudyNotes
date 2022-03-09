@@ -1,0 +1,13 @@
+label标签用id联系起来
+<label for="nan">男</label>
+<input type="radio" id="nan" name="sex">
+
+select标签用法：
+<select name="" size=3 multiple>
+        <option value="北京">北京</option>
+        <option value="上海">上海</option>
+        <option value="深圳">深圳</option>
+        <option value="广东">广东</option>
+</select>
+multiple（可以按住crtl多选）
+size是显示的数量

@@ -1,0 +1,24 @@
+设置文本首行缩进：Text-indent: 数值+%/数值+单位pt、px、em、ex
+
+
+css合并单元格：
+colspan=“3” 横向合并三个单元格‘。
+rowspan="3"垂直合并三个单元格。
+
+表格中的边框合并：
+border-collapse:collapse;
+
+超链接：
+href:指定链接地址
+target:链接打开方式（_blank在新窗口打开）
+
+
+css选择器：
+#：id选择器
+空格：所有子元素
+>:父元素下的子元素
+.：类选择器
+：（冒号）：属性选择器
+
+iframe标签元素会创建包含另外一个文档的内联框架(行内框架)
+name属性：指定ifram标签的名称，如果a标签中的target属性值是其name属性值，当你点击a标签的时候，对应的超链接内容就会出现在iframe中
